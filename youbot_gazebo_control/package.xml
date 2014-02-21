@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>youbot_gazebo_control</name>
-  <version>0.1.0</version>
+  <version>0.8.0</version>
   <description>Controller</description>
 
   <maintainer email="nowak@locomotec.com">Walter Nowak</maintainer>
