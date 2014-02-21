@@ -15,6 +15,10 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
+  <run_depend>youbot_gazebo_control</run_depend>
+  <run_depend>youbot_gazebo_robot</run_depend>
+  <run_depend>youbot_gazebo_worlds</run_depend>
+
   <export>
     <metapackage/>
   </export>
